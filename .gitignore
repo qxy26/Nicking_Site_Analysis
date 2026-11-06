@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+results/
+circular_results/
+work/
+.env
+# Keep raw research data outside version control.
+data/raw/
